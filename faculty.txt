@@ -1,0 +1,1 @@
+{'Faculty Password': 'shaym55', 'Faculty Name': 'shyam', 'Faculty Phone No.': 9865327410, 'Faculty Email ID': 'shaym@mail.com', 'Faculty Graduation': 'b.tech', 'Faculty Experince': 8}

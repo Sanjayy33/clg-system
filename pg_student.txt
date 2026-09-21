@@ -1,0 +1,1 @@
+{'Student Password': 'sanjay55', 'Student Name': 'sanjay', 'Student Address': 'ahmedabad', 'Student Phone no.': 8511761477, 'Student Email ID': 'sanjay@mail.com', 'Degree Type': 'PG', 'Course Name': 'Master of Computer Application', 'Fees': 90000, 'Pending Fees': 83500}
