@@ -13,5 +13,5 @@ The project is built using Python fundamentals such as dictionaries, loops, cond
 ## How to Run
 
 ```bash
-python main.py
+python clg.py
 ```
